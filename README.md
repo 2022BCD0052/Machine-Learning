@@ -3,5 +3,6 @@
  Activate Python Environment
  source /home/yogeshsaini/.python_lab/bin/activate
 
+supervised ml completed
 
  
